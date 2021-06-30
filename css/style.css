@@ -14,11 +14,7 @@ header{
 
 
 
-    /* header nav {
-        margin-top: 10px;
-        padding: 20px;
-        background-color: lightgray;
-      } */
+   
       nav{
           width: 960px;
           height: 150px;
@@ -27,23 +23,18 @@ header{
           display:flex;
         justify-content: space-around;
       }
-       
-      /* nav ul {
-        position: relative; */
-      }
+     
+  
       ul {
           display: flex;
           justify-content: space-around;
        position: relative;
-        /* margin-left: 200px; */
+        
       }
     
       li 
       {display: inline-block;
-          /* display: flex; */
-          /* justify-items: center; */
-         
-         /* margin-left: 160px; */
+          
          padding: 40px;
           position: relative;
           margin-left: 10px;
